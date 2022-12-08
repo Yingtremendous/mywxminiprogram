@@ -3,7 +3,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports[Symbol.toStringTag] = "Module";
 var common_vendor = require("./common/vendor.js");
 if (!Math) {
-  "./pages/index/index.js";
+  "./pages/home/home.js";
+  "./pages/cate/cate.js";
+  "./pages/cart/cart.js";
+  "./pages/my/my.js";
 }
 const _sfc_main = {
   onLaunch: function() {

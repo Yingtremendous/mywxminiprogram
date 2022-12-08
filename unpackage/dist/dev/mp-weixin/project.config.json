@@ -19,7 +19,7 @@
     }
   },
   "compileType": "miniprogram",
-  "libVersion": "2.28.0",
+  "libVersion": "",
   "appid": "wxd12914d5f1848a4f",
   "projectname": "mywxminiprogram",
   "condition": {},
